@@ -22,7 +22,7 @@
 
             <!-- Header -->
             <header id="header">
-                <a href="index.html" class="logo">YoungBuckNZ</a>
+                <a href="index.html" class="logo">YoungBuckNz</a>
             </header>
 
             <!-- Nav -->
@@ -46,7 +46,7 @@
                 <!-- Featured Post -->
                 <article class="post featured">
                     <header class="major">
-                        <h2><a href="#">Latest Project:<br />Wild Horizons</a></h2>
+                        <h2><a href="#">Latest Project:<br />Waimana Marine</a></h2>
                         <p>A short film capturing the raw beauty of New Zealand's wilderness through the eyes of a hunter and storyteller. Shot over 10 days in the Marlborough Sounds.</p>
                     </header>
                     <a href="#" class="image main"><img src="images1/DJI_0003.jpg" alt="" /></a>
